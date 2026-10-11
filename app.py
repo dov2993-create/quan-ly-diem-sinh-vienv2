@@ -1,4 +1,3 @@
-```python
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -225,4 +224,3 @@ st.download_button(
 # ==========================================
 st.markdown("---")
 st.caption("Người tạo: Đỗ Trần Quang Việt | MSSV: [051208000848]")
-```
